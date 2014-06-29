@@ -1,7 +1,7 @@
 angular-best-practices
 ======================
 
-A set of Best Practices for AngularJS
+A set of Best Practices for AngularJS : [xebia-france.github.io/angular-best-practices]()
 
 TODO : Explain how to contribute to this book.
 
